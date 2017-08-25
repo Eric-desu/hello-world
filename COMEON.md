@@ -1,3 +1,3 @@
 # hello peppy
 is this owrkging.
-**i** *like* **bananas and ~~**tacos**~~ apples**
+1. **i** *like* **bananas and ~~**tacos**~~ apples**
