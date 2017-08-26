@@ -24,5 +24,5 @@ is this owrkging.
    [Cookiezi]:https://osu.ppy.sh/u/124493  
    [image]:https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "LUL"
    
-   ![https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png]  
+   ![scrub image]:(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
    ![image]
