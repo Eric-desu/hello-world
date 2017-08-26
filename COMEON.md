@@ -20,5 +20,9 @@ is this owrkging.
    [I'm a relative reference to a repository file wtf](https://github.com/ppy/osu-wiki)  
    best osu player is [Cookiezi]
 
-   [best player]:https://osu.ppy.sh/u/4787150  
-   [Cookiezi]:https://osu.ppy.sh/u/124493
+   [best player]:https://osu.ppy.sh/u/4787150 "VAXEI"
+   [Cookiezi]:https://osu.ppy.sh/u/124493  
+   [image]:https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "LUL"
+   
+   ![scrub image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
+   ![scrub image][image]
