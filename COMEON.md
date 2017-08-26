@@ -15,3 +15,4 @@ is this owrkging.
   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
   
  [this is a link](https://www.google.com)
+[this is a link with a title](https://www.google.com ''DT best mod'')
