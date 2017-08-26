@@ -31,4 +31,9 @@ is this owrkging.
    ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
-```
+```  
+
+|Player|PP|Place|
+|Cookiezi|13k|1|
+|Vaxei|13k|3|
+|Me|almost3k|lol|
