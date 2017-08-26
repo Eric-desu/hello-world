@@ -25,4 +25,6 @@ is this owrkging.
    [image]:https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "LUL"
    
    inline: ![scrub image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)  
-   reference: ![image]
+   reference: ![image]  
+   
+   'this is in a happy little box'
