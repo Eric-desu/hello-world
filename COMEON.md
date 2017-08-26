@@ -14,4 +14,4 @@ is this owrkging.
   Note that this line is separate, but within the same paragraph.  
   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
   
- [this is a link](google.com)
+ [this is a link](https://www.google.com)
