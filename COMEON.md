@@ -18,4 +18,4 @@ is this owrkging.
    [this is a link with a title](https://www.google.com "DT BEST MOD")  
    [reference-style link][best player]
 
-   [best player]("VAXEI"):https://osu.ppy.sh/u/4787150
+   [best player]:https://osu.ppy.sh/u/4787150
