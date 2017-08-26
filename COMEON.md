@@ -40,5 +40,6 @@ alert(s);
 |Me|almost3k|lol|  
 
 >This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can put Markdown into a blockquote.
->a part of that thing.  
+>a part of that thing.
+
 quote breaklil
