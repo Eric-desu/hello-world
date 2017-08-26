@@ -17,6 +17,6 @@ is this owrkging.
    [this is a link](https://www.google.com)  
    [this is a link with a title](https://www.google.com "DT BEST MOD")  
    [reference-style link][best player]  
-   [I'm a relative reference to a repository file wtf](../edit/master/COMEON.md)
+   [I'm a relative reference to a repository file wtf](https://github.com/ppy/osu-wiki)
 
    [best player]:https://osu.ppy.sh/u/4787150
