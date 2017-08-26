@@ -44,3 +44,11 @@ alert(s);
 
 quote breaklil
 >and another one
+
+<dl>
+ <dt>definition list</dt>
+ <dd>is what i am using right now</dd>
+ 
+ <dt>markdown in HTML</dt>
+ <dd>does *not* ~~work~~ use HTML <em>tags</em></dd>
+</dl>
