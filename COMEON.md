@@ -51,4 +51,12 @@ quote breaklil
  
  <dt>markdown in HTML</dt>
  <dd>does *not* ~~work~~ use HTML <em>tags</em></dd>
-</dl>
+</dl>  
+
+gotta use three or more
+---
+hyphens
+***
+asterisks
+___
+underscores
